@@ -7,11 +7,7 @@
     Try changing "table" to "view" below
 */
 
-<<<<<<< HEAD
---my merge conflict shown here
-=======
---change made outside of IDE
->>>>>>> c24ed30f93f3529d44e08e00ea7cc9bd1a1cbcbe
+--changes made within the IDE
 
 {{ config(materialized='table') }}
 
