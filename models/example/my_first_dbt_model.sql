@@ -7,7 +7,7 @@
     Try changing "table" to "view" below
 */
 
-## example merge conflict
+--example merge conflict
 
 {{ config(materialized='table') }}
 
