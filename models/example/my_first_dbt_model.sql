@@ -7,7 +7,11 @@
     Try changing "table" to "view" below
 */
 
+<<<<<<< HEAD
 --changes made within the IDE
+=======
+--changes made outside of IDE
+>>>>>>> 1c749888a7d01a5ef9bd8c206cf7e0bb19411f55
 
 {{ config(materialized='table') }}
 
